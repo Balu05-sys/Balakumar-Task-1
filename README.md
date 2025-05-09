@@ -29,4 +29,11 @@ This project is a responsive **resume webpage** built using **HTML**, **CSS**, *
 1. Clone the repository:
    ```bash
    git clone https://github.com/Balu05-sys/Balakumar-Task1-Resume.git
+2. Open the project folder.
+
+3. Replace ph1.jpg with your own profile image (use the same filename or update it in the HTML).
+
+4. Open index.html in your browser.
+
+5. Customize the content as needed (name, experience, skills, etc.).
    
